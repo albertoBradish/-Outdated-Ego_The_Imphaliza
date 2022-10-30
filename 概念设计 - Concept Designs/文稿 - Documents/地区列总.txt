@@ -1,0 +1,42 @@
+The Regions of the Great Imphaliza 
+
+A01 迷失森林(The Forest of Stray)
+A02 静谧溪流(The Rivulet of Tranquil)
+A03 苍翠歧路(The Astray of Verdant）
+A04 黑蔓郁林(The Grove of Vine)
+A05 灰寂之山(Mt.Ash)
+A06 昔荣之港(The Prosper of Begone)
+A07 昔荣之港[旧城](The Casbah of Begone)               *Casbah: 旧城区
+A08 缘流河谷(The Stream of Karma)		*Karma：因果报应，业障
+A09 夕照之岭(The Rigid of Afterglow)
+A10 酐钴祭地(Sacrificio Ghankoo)		*Ghankoo：音译甘库		
+A11 无底深渊[地下](The Abyssal Maw)
+A12 鸿荣圣山[地表](Mt.St.Joron[Surface])
+A13 鸿荣圣山[地下](Mt.St.Joron[Underground])
+A14 碎峦峘壁(The Peak of the Palisades)
+A15 腐因之洞(The Cave of the Genesis)		*双关
+A16 无尽螺旋(Infinite Helixes)
+A17 峘那圣泉(Guana the Holy Spring)		*灵感：法语
+
+桃花奇缘
+B01 逢源之村(The Village of Orthweg)		*Orthweg：古英语[origin]的半现代写法
+B02 悬河洞天(The Seclusion behind the Falls)
+
+Dortaxon
+C01 多摩因道(Carretera Tamaproque)		*Carretera（道路） Tama（达摩）proque（因缘）：西班牙语
+C02 佴余烟火(Inmóvil Fuegos Artificiales)
+C03 奇索坛祭(Sacrificio Gisso)			*Gisso：奇索，吉索；名字
+
+Mt.Tassos
+D01 达索弥山(Mt.Tasol)
+D02 伽达利亚(Gartalia)
+D03 旧闻古道(Camino Memoria)
+
+地图连接/扩展
+A02E 昔荣水道(Erstwhile Watercourse)
+A05E 曾忆王道(Effaced Royal Way)
+B01E 无尽迷雾(Incessant Fog)
+B02E 幽闇狭道(Obscure Covered Trail)
+A12E 峘那中游(Guana's Midstream)
+
+
